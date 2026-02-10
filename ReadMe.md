@@ -13,7 +13,6 @@
   <br><br>
 
   <p>
-    <img src="https://img.shields.io/badge/-Agent?style=flat />
     <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-React_Three_Fiber-000?style=flat&logo=three.js&logoColor=white" />
@@ -24,8 +23,8 @@
 
   <p>
     <a href="https://linkedin.com/in/kurisia" target="_blank">LinkedIn</a> • 
-    <a href="mailto:kurisia0210@gamil.com">Contact</a> • 
-    <span style="color: #2ecc71;"> System Online</span>
+    <a href="mailto:kurisia0210@gmail.com">Contact</a> • 
+    <span style="color: #2ecc71;">● System Online</span>
   </p>
 
 </div>
