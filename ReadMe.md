@@ -37,6 +37,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kurisia0210-bot&theme=tokyonight&no-frame=true&margin-w=4" />
 </div>
 
+
+<img src="https://raw.githubusercontent.com/kurisia0210-bot/kurisia0210-bot/output/github-snake-dark.svg" alt="snake" />
 ---
 
 ### 🚀 Current Directive
