@@ -13,6 +13,7 @@
   <br><br>
 
   <p>
+    <img src="https://img.shields.io/badge/-Agent?style=flat />
     <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-React_Three_Fiber-000?style=flat&logo=three.js&logoColor=white" />
