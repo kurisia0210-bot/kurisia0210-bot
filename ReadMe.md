@@ -6,10 +6,16 @@
 
   <br>
 
-  <samp>
-    " We are not building chatbots. We are building <b>Digital Minds</b>. "
+  <samp style="color: #a8a8a8; line-height: 1.8; font-size: 1.05em;">
+    <i>"Blackbird singing in the dead of night,</i><br>
+    <i>Take these broken wings and learn to fly.</i><br>
+    <i>All your life,</i><br>
+    <i>You were only waiting for this moment to arise."</i>
   </samp>
-
+  <br>
+  <span style="color: #666; font-size: 0.85em; margin-top: 8px; display: inline-block;">
+    — The Beatles, <b>Blackbird</b>
+  </span>
   <br><br>
 
   <p>
